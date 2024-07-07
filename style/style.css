@@ -1,0 +1,116 @@
+
+.nav{
+    background-color: rgb(108, 175, 8);
+    padding-right: 15px;
+    padding-left: 15px;
+    padding: 10px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    font-size: large;
+}
+li a{
+    font-weight: bold; margin-right: 25px;
+}
+.button1{
+    font-size: large;
+    background-color: white;
+    font-weight: bold;
+}
+.footer{
+    font-size: xx-large;
+    background-color: darkblue;
+    color: white;
+    margin-bottom: 0%;
+    padding: 20px;
+}
+.align{
+    display: flex;
+}
+.align1{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width:290px;
+    padding: 5px;
+}
+.p1:hover{
+    background-color: black;
+    color: white;
+}
+.align2{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width:290px;
+    padding: 5px;
+}
+.p2:hover{
+    background-color: black;
+    color: white;
+}
+.align3{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    display: inline-block;
+    width:290px;
+    padding: 5px;
+}
+.p3:hover{
+    background-color: black;
+    color: white;
+}
+.set{
+    text-align: center;
+}
+.about{
+    margin-top: 0px;
+    padding: 10px;
+}
+.form{
+    border-color: darkblue;
+    border-width: 6px;
+    border-style: solid;
+    display: inline-block;
+    width:400px;
+    padding: 5px;
+    text-align: center;
+}
+input:hover{
+   background-color: black;
+   color: white;
+}
+textarea:hover{
+    background-color: black;
+    color: white;
+ }
+ input{
+    height: 60px;
+ }
+textarea{
+    height: 60px;
+    border-radius: 4px;
+}
+button{
+    padding: 15px;
+    margin: 50px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+
+}
+button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
